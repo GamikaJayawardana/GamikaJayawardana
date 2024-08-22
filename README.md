@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gamika Jayawardana</h1>
 <h3 align="center">- IT Enthusiast -<br>Electronics And Computer Science Undergraduate</h3>
 
-<p align="CENTER"> <img src="https://komarev.com/ghpvc/?username=GamikaJayawardana&label=Profile%20views&color=0e75b6&style=flat" alt="j-coder-shan" /> </p>
+<p align="CENTER"> <img src="https://komarev.com/ghpvc/?username=GamikaJayawardana&label=Profile%20views&color=0e75b6&style=flat" alt="Gamika Jayawardana" /> </p>
 
 <table align="center">
 <tr border="none">
