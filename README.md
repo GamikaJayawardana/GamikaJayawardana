@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gamikakj@gmail.com.com**
 
-- ⚡ Fun fact **call me as SHAN !**
+
   
 </td>
 </tr>
